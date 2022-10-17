@@ -1,0 +1,4 @@
+#Mon Oct 17 08:46:18 NOVT 2022
+base.0=Z\:\\modelki\\zadania\\Test\\TZ_VITER LLC\\TZ_VITER LLC\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
